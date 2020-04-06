@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:27
+-keep class cn.qqtheme.framework.activity.CrashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.uicdb.game.coreui.GameApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.uicdb.game.coreui.MainActivity { <init>(...); }
+
